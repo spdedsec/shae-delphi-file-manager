@@ -1,0 +1,7 @@
+*.o
+*.ppu
+*.bak
+filemanager
+*.zip
+.DS_Store
+.env
